@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: verdana;
+}
+#labell {
+  font-size: 10em;
+}
+.incr {
+  font-size: 2em;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: aquamarine;
+}
+.incr:hover {
+  background-color: mediumseagreen;
+  cursor: pointer; /* Changes cursor to pointer */
+}
